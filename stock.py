@@ -31,3 +31,4 @@ plt.show()
     # print(day)
 
     # print(var[day]['4. close'])
+xyz = []
